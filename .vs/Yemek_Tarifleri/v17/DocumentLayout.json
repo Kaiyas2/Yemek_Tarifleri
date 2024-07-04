@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|c:\\users\\death\\onedrive\\masa\u00FCst\u00FC\\yemek_tarifleri\\yemek_tarifleri\\tarifonerdetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|solutionrelative:yemek_tarifleri\\tarifonerdetay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|c:\\users\\death\\onedrive\\masa\u00FCst\u00FC\\yemek_tarifleri\\yemek_tarifleri\\tarifonerdetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|solutionrelative:yemek_tarifleri\\tarifonerdetay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\yemek_tarifleri\\kategoriler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|solutionrelative:yemek_tarifleri\\kategoriler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\yemek_tarifleri\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|solutionrelative:yemek_tarifleri\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\yemek_tarifleri\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri|solutionrelative:yemek_tarifleri\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|E:\\Yemek_Tarifleri\\Yemek_Tarifleri|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\yemek_tarifleri\\yorumlar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|E:\\Yemek_Tarifleri\\Yemek_Tarifleri|solutionrelative:yemek_tarifleri\\yorumlar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|E:\\Yemek_Tarifleri\\Yemek_Tarifleri|C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\yemek_tarifleri\\yorumlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D71D401-E2A4-4E6F-BAFA-89A146F10B94}|E:\\Yemek_Tarifleri\\Yemek_Tarifleri|solutionrelative:yemek_tarifleri\\yorumlar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarifonerdetay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Tarifonerdetay.aspx.cs",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri\\Tarifonerdetay.aspx.cs",
+              "ToolTip": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Tarifonerdetay.aspx.cs",
+              "RelativeToolTip": "Yemek_Tarifleri\\Tarifonerdetay.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:17:33.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarifonerdetay.aspx",
+              "DocumentMoniker": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Tarifonerdetay.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri\\Tarifonerdetay.aspx",
+              "ToolTip": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Tarifonerdetay.aspx",
+              "RelativeToolTip": "Yemek_Tarifleri\\Tarifonerdetay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T09:17:17.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategoriler.aspx",
+              "DocumentMoniker": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Kategoriler.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri\\Kategoriler.aspx",
+              "ToolTip": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Kategoriler.aspx",
+              "RelativeToolTip": "Yemek_Tarifleri\\Kategoriler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T09:17:11.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Admin.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri\\Admin.aspx",
+              "ToolTip": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Admin.aspx",
+              "RelativeToolTip": "Yemek_Tarifleri\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T09:17:03.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Yorumlar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Yorumlar.aspx.cs",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri\\Yorumlar.aspx.cs",
+              "ToolTip": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Yorumlar.aspx.cs",
+              "RelativeToolTip": "Yemek_Tarifleri\\Yorumlar.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ9SURBVDhP5ZRLTBNRFIb/GVrog2ofgjIFI8VUFhCNpd3Q2q3ENBI1JLhx4VI36sYY5bF0w0LcyM6EaNIYV8QQTEwaDItR1KgsxGBMtI28OoVO27EP6rnXAWw0CMSdX3Jyz7n3nH9mzr1zhWw2W8bWjFksloju/xUhk8lEBEG4SX7g86KKx/IXTM8twSvtRdcxCYHD\u002B\u002BZpTebZv1Aul5VCoXDFbrcn9SmOgcxHi3YShbnagAa7GfOr3zG3EEdGK7Kc/e1ua2R8fBy5XA4OhwMejwder1c1Go2LmqaNmEymWZbIMJBQ//SnZSysanzCaBDgtFbjQ2IFY6\u002B\u002BolSmjvgPYPbjHN69fQMqht/vh9lsrnW73deoJEuio\u002BuivIfnhmJ48jrO4t9wOy3o9jfhxuk2DA/dhvxChtPpRCAQQE9PD1wuF0RRHLRarQMsX\u002BRVOySVSmFqagrRaBTxeOWLcMHr3W14dDXM7f6lTpw63giXrQaH6moR8TXiwgkPTNQK6jUvWltbg6qqkGUZyWTFnsBASYO\u002BZmcv9dI7v6Lh2ftvUDJ5/qmh1nqcDRxEa4ONRMoIhkLwtLTwQo02aOLpBPL5PI/XYYIvqQddLMjli0goWdTvqUHwSB1OHpXQ0ezgYoxQMMRHhqIomHw\u002BqUebkJY4QmMTCatuew0uBiWMXu5E35n2CrHtIpJQBzPy783MzKDvVh\u002BWl5IoFks7FmOItN0JZuSrdPKhpBSUSqWfq7tgV8dmK/5DQXbbVMD\u002BgOG7d2A0Vuszf6ZQyCOdTuvRJoI\u002Bgu7FgUQi0R\u002BLxfSZ7REOhyFJ0sblsCFITztfVVXVq4c7go7ZQ5vN9kAP/yXAD8d39qNlUYTDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-05-14T09:16:44.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Yorumlar.aspx",
+              "DocumentMoniker": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Yorumlar.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri\\Yorumlar.aspx",
+              "ToolTip": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\Yorumlar.aspx",
+              "RelativeToolTip": "Yemek_Tarifleri\\Yorumlar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANeSURBVDhPpVRNTBNdFD0z7QxDS2GwRqUqKhAioTEaowuMhA0aDbpQPw0JiTsXJm51Zapx58IYly6MC6MkRjdEXWD8AetPRPytJsV8KmgBSe3UtvPTDjPe9xyLkRIXnszkvXvnvfPOnXvfFfAH8vl8gyiKIzSN/PT8Ha7rngwGgyfYfEHC/v7\u002BSDKZ9LzzQWsQDofR3d2NxsbGpCzLlwKBwCm/930eGJle0NEejXqeOaRSKcTjDxAKhSAIAjo7O1sJfYVCwbcgIQMjO7D/gGfNYeTZCIaHh5DNZok4zn2ksLWlpSUmcusfkMlkiHwYg4OD3P5nQoZcLod0Os3n5aTout5LQy9lTKFxK4WiqHUq2traWBbhOC5fx6BlNbwfG/MscIWmZSIWi8HHHIxMt91Dn/L29sEvZvPNCcP/XK/C21IQiRwwY7qorxIhiwLogaIoiESWl9/xiXEeeldXF3xUJj3WrHvsnWZvuZMyMTRp4uJYHqYg4XUWeDRjwUcshVlgEZEG/T9Jf0cikSgTUjmJA9Oms/n6xwJujOtYp0qQaMfRaAj7VlejThLRFPThHEkd\u002BlqEZs\u002BFXgk8KQOfDFi0sK8pgJ6VVVB8cxIaAiL\u002BI\u002BKDzQG8TBfxdKZEKubdhzJ4Hb5IW3g4beHRVwFX/hehFR2cfpPD95KLLM0PP85g0nC4f03IT8XM8lZZqcg2zJgOVlBY2yIK2utZyEBTjR/Lqn085I1hGT0rFK68QJGw27EQRIvKwaHTllWL2LBIQlT1Q6INTaSE\u002BWplgfvZWyctTPQL/iWKDzV\u002BETc/G7idsri6bMnB\u002BWQBNh1GUePIEw0mZblE9bitwWYNBIZhehSAaRjezPuH7fUyVDp982IJ6yjkvXfTOLmhFomMjTdaCWc21eHGZxOvNBvGl/e4EH\u002BM0dFRTsBgEGHUayKccMfKalz74ODeVJH/HxKIellEDR3C1D77VsLtSQs7GwPoaG5BbXsYHR0dnOAXVFXlo0At50Su5PbGp63W4SkTmjWLqx907FiuYIqSNUEV3UMHVlFB71kdxFpVuke5us93VwD/y3T1jueKTl/yu916a8KgUIsoendXJaXrKcu7VgWwVBGfyoJ7lvrgZf6xAsppY0op3JhnVgQ1id3U6gc8swKAHzzJadxxZt9cAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-05-14T09:16:44.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaSayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\AnaSayfa.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifleri\\AnaSayfa.aspx",
+              "ToolTip": "C:\\Users\\death\\OneDrive\\Masa\u00FCst\u00FC\\Yemek_Tarifleri\\Yemek_Tarifleri\\AnaSayfa.aspx",
+              "RelativeToolTip": "Yemek_Tarifleri\\AnaSayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T09:16:45.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
